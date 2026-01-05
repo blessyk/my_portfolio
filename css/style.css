@@ -1,6 +1,10 @@
 html {
     scroll-padding-top: 60px; /* navbar height */
 }
+
+body {
+    font-family: "sans-serif";
+}
 .continuous-marquee {
   /* Ensure the text stays in one line and is wider than its container */
   display: inline-block;
